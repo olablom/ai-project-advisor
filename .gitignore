@@ -18,4 +18,18 @@ sdist/
 var/
 *.egg-info/
 .installed.cfg
-*.egg 
+*.egg
+
+# Course-specific files (personal/sensitive)
+Projektarbete.txt
+src/Projektarbete.txt
+
+# Personal test files
+test_prompt.txt
+
+# Assignment submission files (keep private)
+docs/technical_report.md
+debate_transcript.yaml
+debate_transcript.json
+output.yaml
+output.json 
