@@ -1,0 +1,7 @@
+user_input: "I want to build an AI project."
+proposals:
+  - "PortfolioBuilder: Build an AI portfolio."
+  - "GradeOptimizer: Do a project for the highest grade."
+  - "CareerCoach: Create a project that leads to a job."
+  - "RealismExpert: Make a realistic project."
+vote: "PortfolioBuilder: Build an AI portfolio."
