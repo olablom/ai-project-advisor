@@ -1,0 +1,83 @@
+final_project: "Projektidé: \"Förenklad kontaktbok med LLM\"\n \nBeskrivning: Skapa\
+  \ en enkel, webbaserad kontaktbok med Lightbend Lagom Microservices Framework (LLM).\
+  \ Denna kontaktbok bör tillåta användare att lägga till, söka, redigera och ta bort\
+  \ kontakter. Den bör också kunna hantera basfunktionaliteten för användarkonton,\
+  \ t.ex. inloggning och registrering. \n\nTeknikstack: \n- Backend: Lightbend Lagom\
+  \ (LLM) för mikrotjänster\n- Frontend: HTML, CSS och JavaScript\n- Databas: PostgreSQL\n\
+  - Version control: Git/GitHub\n\nDetta är verklighetsgrundat eftersom:\n- Lightbend\
+  \ Lagom är utformad för att bygga reaktiva mikrotjänster och skulle presentera varje\
+  \ funktion (lägga till, söka, redigering och borttagning av kontakter) som en separat\
+  \ mikrotjänst. Detta gör projektet hanterbart och enkelt att underhålla.\n- Med\
+  \ enkel frontend-kodning blir projektet genomförbart inom en rimlig tidsram.\n-\
+  \ Projektet kräver grundläggande kunskaper om HTML, CSS, JavaScript och LLM, vilket\
+  \ gör det realistiskt för en studerande att komma igång och slutföra.\n- All kod\
+  \ kan vara öppen källkod och vara tillgänglig på GitHub, vilket gör det möjligt\
+  \ för andra att dra nytta av och lära sig från projektet."
+voting_summary:
+  PortfolioBuilder: C. MIN MÅLSÄTTNING ÄR ATT FOKUSERA PÅ UTVECKLING AV PRAKTISKA
+    OCH REALISTISKA MJUKVARULÖSNINGAR SOM HAR POTENTIAL ATT GÖRA DIREKT INVERKAN PÅ
+    AFFÄRSVÄRLDEN. PROJEKTET OM ATT BYGGA EN PLATTFORM FÖR HANTERING AV KUNDLOJALITET
+    (LOYALTYLOYALTY MANAGEMENT) PASSAR BÄST IN MED DEN VISIONEN. DESSUTOM GER DET
+    EN MÖJLIGHET ATT JOBBA MED EN RAD OLIKA TEKNOLOGIER INKLUSIVE JAVA SPRING BOOT,
+    ANGULAR, MYSQL, DOCKER OCH JENKINS, VILKET KOMMER VARA GIVANDE FÖR MIN TEKNISKA
+    UTVECKLING. DESSUTOM, OM MINA FRAMTIDA KARRIÄRMÅL LUTAR MOT FÖRETAGSTJÄNSTER OCH
+    KUNDENGAGEMANG, SKULLE DET HÄR PROJEKTET ERBJUDA EN DIREKT RELEVANT ERFARENHET.
+  GradeOptimizer: 'B
+
+
+    MY GOAL IS TO APPLY DATA SCIENCE AND MACHINE LEARNING TECHNIQUES TO REAL-WORLD
+    PROBLEMS. THE "PREDICTING LEGAL DECISIONS WITH MACHINE LEARNING (LLM)" PROJECT
+    ALIGNS PERFECTLY WITH MY INTERESTS AND EXISTING SKILL SET. IT''S NOT ONLY TECHNICALLY
+    CHALLENGING BUT ALSO HAS PRACTICAL APPLICATIONS, PARTICULARLY IN HELPING LEGAL
+    EXPERTS UNDERSTAND TRENDS AND THE FACTORS INFLUENCING JUDICIAL OUTCOMES, WHICH
+    I FIND HIGHLY SIGNIFICANT. THIS PROJECT ALSO PROVIDES AN OPPORTUNITY TO SHOWCASE
+    MY SKILLS IN PYTHON, TENSORFLOW, WEB SCRAPING, AND NATURAL LANGUAGE PROCESSING.'
+  CareerCoach: 'AS A CAREER COACH, IT''S NOT POSSIBLE FOR ME TO PICK A PROJECT WITHOUT
+    UNDERSTANDING THE INDIVIDUAL''S INTERESTS, SKILLS, AND CAREER ASPIRATIONS. HOWEVER,
+    I CAN PROVIDE SOME GUIDANCE ON HOW ONE MIGHT CHOOSE.
+
+
+    A'
+  RealismExpert: Project D
+  result: Project D
+  votes_per_project:
+    Project A: 0
+    Project B: 0
+    Project C: 0
+    Project D: 1
+agent_comments:
+  PortfolioBuilder: ''
+  GradeOptimizer: ''
+  CareerCoach: 'Ideal for individuals passionate about AI, graphic design, and web
+    development. It combines technical coding skills with an appreciation of aesthetics.
+
+
+    B: Perfect for students interested in legal studies, data science, and computer
+    programming. It''s a chance to apply machine learning to the legal sphere, an
+    innovative concept with real-world relevance.
+
+
+    C: Suitable for students interested in business and software development. Achieving
+    this would demonstrate a practical understanding of how technology can enhance
+    customer loyalty strategies.
+
+
+    D: Great for individuals who love web development and are particularly interested
+    in exploring microservices architecture. This offers practical experience in building
+    a user-friendly tool with real-world relevance.
+
+
+    Evaluate your abilities, interests, and future career aspirations before making
+    the call. As a career coach, my role is to guide you in this selection process,
+    but the final decision is always yours.'
+  RealismExpert: '"Förenklad kontaktbok med LLM"
+
+
+    Min primära motivation är att bygga funktionella och underhållsvänliga system.
+    Med Lightbend Lagom Microservices Framework (LLM) kan jag skapa en separerad struktur
+    för varje funktion vilket gör projektet skalbart och effektivt att underhålla.
+    Dessutom kommer arbetet med HTML, CSS och JavaScript att förbättra mina kompetenser
+    inom frontend-utveckling. Kontroll och hantering av versioner med hjälp av Git/GitHub,
+    tillsammans med användning av PostgreSQL som databasen, kommer att ge mig erfarenhet
+    inom viktiga aspekter av mjukvaruutveckling. Åtkomst och kontroll över alla aspekter
+    av projektet gör det till det mest passande för mina mål.'
